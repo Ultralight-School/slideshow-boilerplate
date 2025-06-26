@@ -1,3 +1,5 @@
+## Audio
+
 ```
 <a href="">
     <figure class="slide audio">
@@ -9,6 +11,8 @@
 </a>
 ```
 
+## Image
+
 ```
 <a href="">
     <figure class="slide image">
@@ -17,6 +21,8 @@
     </figure>
 </a>
 ```
+
+## Text
 
 ```
 <a href="">
@@ -27,6 +33,8 @@
 </a>
 ```
 
+## Header
+
 ```
 <a href="">
     <header class="slide title">
@@ -34,6 +42,8 @@
     </header>
 </a>
 ```
+
+## Video
 
 ```
 <a href="">
